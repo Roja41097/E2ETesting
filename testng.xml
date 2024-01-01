@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ProductCart">
+  <test name="LoginTest">
+    <classes>
+      <class name="main.ErrorValidationTest"/>
+     <class name="main.EcommerceApp"/>
+    </classes>
+  </test> <!-- LoginTest -->
+</suite> <!-- ProductCart -->
