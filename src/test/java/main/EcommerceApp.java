@@ -27,6 +27,7 @@ public class EcommerceApp extends Browser{
         CheckoutPage checkout = new CheckoutPage(driver);
         checkout.VerifyTheProduct(productName);
         checkout.Checkout();
+        //adding comment
     	
     }
 }
